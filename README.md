@@ -1,4 +1,4 @@
-# Singularity config for simg-rseqc container
+# Singularity config for rseqc container
 
 A [Singularity Hub](https://www.singularity-hub.org/) definition for a lncRNA workflow.
 
